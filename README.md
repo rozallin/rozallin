@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # ![Header Banner: Hi! I’m Rozallin]( https://imgur.com/5fNef49.png)
-I’m a student in my fourth year (of six) of the BSc(Hons) Computing and IT (Software Development specialisation) degree offered by the [Open University](https://www.open.ac.uk). I have some proficiency in Python and Java, but I’m really passionate about web development using HTML, CSS, JavaScript and PHP.
+I’m a student in my fourth year (of six) of the [BSc(Hons) Computing and IT](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) (Software Development specialisation) degree offered by the [Open University](https://www.open.ac.uk). I have some proficiency in Python and Java, but I’m really passionate about web development using HTML, CSS, JavaScript and PHP.
