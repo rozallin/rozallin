@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rozallin/rozallin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ![Header Banner: Hi! I’m Rozallin]( https://imgur.com/5fNef49.png)
 I’m a student in my fourth year (of six) of the BSc(Hons) Computing and IT (Software Development specialisation) degree offered by the Open University. I have some proficiency in Python and Java, but I’m really passionate about web development using HTML, CSS, JavaScript and PHP.
